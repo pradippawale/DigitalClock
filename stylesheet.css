@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+}
+
+.wrapper .clock{
+    margin: 0;
+    padding: 0rem;
+}
+
+#digitalclock{
+    margin:20%;
+    padding: 1rem;
+    border: 2px solid black;
+    text-align: center;
+    width: 22rem;
+    font-family:cursive;
+    background-color: chocolate;
+    color:gold;
+    font-size: 3rem;
+    border-radius: 0.5rem;
+}
+
+#digitalclock:hover{
+    cursor: pointer;
+    background-color: slategray;
+    color: wheat;
+}
+
+
+
